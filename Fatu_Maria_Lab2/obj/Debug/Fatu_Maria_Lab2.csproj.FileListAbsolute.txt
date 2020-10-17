@@ -1,0 +1,5 @@
+D:\Maria\Work\Medii de programare\Fatu_Maria_Lab2\obj\Debug\Fatu_Maria_Lab2.csprojAssemblyReference.cache
+D:\Maria\Work\Medii de programare\Fatu_Maria_Lab2\obj\Debug\App.g.cs
+D:\Maria\Work\Medii de programare\Fatu_Maria_Lab2\obj\Debug\Fatu_Maria_Lab2_MarkupCompile.cache
+D:\Maria\Work\Medii de programare\Fatu_Maria_Lab2\obj\Debug\MainWindow.g.cs
+D:\Maria\Work\Medii de programare\Fatu_Maria_Lab2\obj\Debug\Fatu_Maria_Lab2_MarkupCompile.lref
